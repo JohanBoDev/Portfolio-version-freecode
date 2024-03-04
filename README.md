@@ -1,4 +1,4 @@
-![image](https://github.com/JohanBoDev/Portfolio-version-freecode/assets/127339175/11612815-7c33-4f46-ab6f-6260053ace3a)# Portfolio-version-freecodeCamp
+# Portfolio-version-freecodeCamp
 
 
 Copy code
@@ -18,7 +18,7 @@ Este proyecto es un sitio web interactivo que presenta mi experiencia, habilidad
 
 ## Capturas de Pantalla
 
-<img src="">
+![image](https://github.com/JohanBoDev/Portfolio-version-freecode/assets/127339175/11612815-7c33-4f46-ab6f-6260053ace3a)
 
 
 ## Tecnologías Utilizadas
